@@ -1,0 +1,11 @@
+model\dao\PasienDAO.class
+model\RekamMedis.class
+controller\KlinikManager.class
+model\Pasien.class
+model\StatusLayanan.class
+model\DokterGigi.class
+model\Orang.class
+view\KlinikGigiManajemen4.class
+model\dao\PasienDAOImpl.class
+config\klinikgigidb.class
+main\KlinikGigiMain.class
