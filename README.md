@@ -1,7 +1,7 @@
 # Sistem Manajemen Klinik Gigi
 
 ## 1. Deskripsi Singkat Program
-Sistem Informasi Manajemen Klinik Gigi berbasis **Java Console (CLI)** yang terintegrasi langsung dengan database **MySQL**. Aplikasi ini dirancang untuk mengelola data operasional klinik secara profesional meliputi pengelolaan data pasien, dokter penanggung jawab, dan rekam medis. 
+Sistem Informasi Manajemen Klinik Gigi berbasis **Java Console (CLI)** yang terintegrasi langsung dengan database **MySQL**. Program ini dirancang untuk mengelola data operasional klinik secara profesional meliputi pengelolaan data pasien, dokter, dan rekam medis. 
 
 Pembangunan sistem ini menerapkan arsitektur **Model-View-Controller (MVC)**, pola desain **DAO (Data Access Object)**, serta pengamanan kueri menggunakan **JDBC Prepared Statement** guna mencegah celah *SQL Injection*. Selain itu, program ini diatur agar *dummy data* awal dimuat langsung melalui file `.sql` di database, sehingga data langsung tampil tanpa perlu diinput manual dari awal.
 
